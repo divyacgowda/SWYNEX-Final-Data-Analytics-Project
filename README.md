@@ -1,4 +1,3 @@
-
 # 🚢 Titanic Survival Analytics – Final Data Analytics Project
 
 ## Project Overview
@@ -124,7 +123,13 @@ https://divyacgowda.github.io/SWYNEX-Interactive-Titanic-Dashboard/
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/divyacgowda/SWYNEX-Final-Data-Analytics-Project.git
+```
+
+Navigate into the project folder:
+
+```bash
+cd SWYNEX-Final-Data-Analytics-Project
 ```
 
 Install the dependencies:
